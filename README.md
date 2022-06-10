@@ -7,3 +7,4 @@ Just fill the values with respective equation values. Please make sure they are 
 ## Proection Password
 123
 
+# https://nc.arose-niazi.me/s2.html#DiagonalDominent
